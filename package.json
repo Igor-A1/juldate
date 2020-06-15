@@ -1,0 +1,23 @@
+{
+  "name": "juldate",
+  "version": "1.0.0",
+  "description": "javascript functions for converting date to julian day and vice versa",
+  "main": "juldate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-A1/juldate.git"
+  },
+  "keywords": [
+    "Julian",
+    "Date"
+  ],
+  "author": "Igor-A1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Igor-A1/juldate/issues"
+  },
+  "homepage": "https://github.com/Igor-A1/juldate#readme"
+}
